@@ -1,0 +1,19 @@
+
+{
+  "Navbar": {
+    "home": "Accueil",
+    "projects": "Projets",
+    "about": "À propos",
+    "contact": "Contact",
+    "menu": "Menu",
+    "projectPrompt": "Vous avez un projet en tête ?",
+    "projectTagline": "Créons quelque chose d'extraordinaire."
+  },
+  "Home": {
+    "role": "Développeur Frontend",
+  "title": "Je crée des expériences web modernes qui aident les entreprises à se développer.",
+  "description": "Je crée des sites web et des applications web adaptatifs avec React, Next.js, TypeScript et des technologies frontend modernes.",
+  "projectsButton": "Voir mes projets",
+  "contactButton": "Me contacter"
+  }
+}
