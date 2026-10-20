@@ -131,7 +131,7 @@ export default function Navbar() {
         className="theme-header theme-border sticky top-0 z-40 border-b backdrop-blur-lg"
         style={{ color: "var(--foreground)" }}
       >
-        <nav className="mx-auto flex max-w-6xl items-center justify-between gap-3 px-4 py-4 sm:px-10 sm:py-5">
+        <nav className="mx-auto flex max-w-7xl items-center justify-between gap-3 px-4 py-4 sm:px-10 sm:py-5">
           <Link
             href="/"
             onClick={() => setMenuOpen(false)}
