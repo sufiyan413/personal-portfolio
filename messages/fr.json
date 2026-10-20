@@ -82,6 +82,13 @@
   "messagePlaceholder": "Parlez-moi un peu de votre projet...",
   "submitButton": "Préparer l'e-mail",
   "formNote": "Ce formulaire ouvre votre application de messagerie par défaut avec le message prérempli. Aucun message n'est envoyé automatiquement."
+},
+"Projects": {
+  "eyebrow": "Mise à jour du portfolio",
+  "title": "Projets en cours",
+  "description": "Je travaille sur plusieurs projets pour présenter mes compétences en développement frontend et mon expérience pratique.",
+  "note": "De nouveaux projets seront bientôt ajoutés ici.",
+  "contactButton": "Me contacter"
 }
 
 

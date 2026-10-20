@@ -82,6 +82,13 @@
   "messagePlaceholder": "Tell me a little about your project...",
   "submitButton": "Prepare Email",
   "formNote": "This form opens your default email app with your message filled in. No message is sent automatically."
+},
+"Projects": {
+  "eyebrow": "Portfolio Update",
+  "title": "Projects Are in Progress",
+  "description": "I'm working on a collection of projects to showcase my frontend development skills and practical experience.",
+  "note": "New projects will be added here soon.",
+  "contactButton": "Contact Me"
 }
 
 }

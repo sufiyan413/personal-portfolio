@@ -83,6 +83,13 @@
   "messagePlaceholder": "Erzähl mir etwas über dein Projekt...",
   "submitButton": "E-Mail vorbereiten",
   "formNote": "Dieses Formular öffnet deine Standard-E-Mail-App mit der vorbereiteten Nachricht. Es wird keine Nachricht automatisch versendet."
+},
+"Projects": {
+  "eyebrow": "Portfolio-Update",
+  "title": "Projekte in Arbeit",
+  "description": "Ich arbeite an mehreren Projekten, um meine Frontend-Entwicklungsfähigkeiten und praktische Erfahrung zu zeigen.",
+  "note": "Bald werden hier neue Projekte hinzugefügt.",
+  "contactButton": "Kontakt aufnehmen"
 }
 
 

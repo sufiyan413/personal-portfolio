@@ -82,6 +82,13 @@
   "messagePlaceholder": "Cuéntame un poco sobre tu proyecto...",
   "submitButton": "Preparar correo",
   "formNote": "Este formulario abre tu aplicación de correo predeterminada con el mensaje preparado. No se envía automáticamente."
+},
+"Projects": {
+  "eyebrow": "Actualización del portafolio",
+  "title": "Proyectos en desarrollo",
+  "description": "Estoy trabajando en varios proyectos para mostrar mis habilidades de desarrollo frontend y mi experiencia práctica.",
+  "note": "Pronto añadiré nuevos proyectos aquí.",
+  "contactButton": "Contáctame"
 }
 
 
