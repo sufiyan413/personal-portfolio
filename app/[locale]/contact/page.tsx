@@ -4,7 +4,7 @@ import { useState, type FormEvent } from "react";
 import { useTranslations } from "next-intl";
 
 const EMAIL = "sufiyanattari184@gmail.com";
-const WHATSAPP = "918149613109";
+// const WHATSAPP = "918149613109";
 const LINKEDIN = "https://www.linkedin.com/in/shaikh-sufiyan-979376175/";
 
 export default function ContactPage() {
@@ -105,7 +105,7 @@ export default function ContactPage() {
                 </span>
               </a>
 
-              <a
+              {/* <a
                 href={`https://wa.me/${WHATSAPP}`}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -134,7 +134,7 @@ export default function ContactPage() {
                     +91 8149613109
                   </span>
                 </span>
-              </a>
+              </a> */}
 
               <a
   href={LINKEDIN}
