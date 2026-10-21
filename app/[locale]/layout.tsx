@@ -10,6 +10,7 @@ import "../globals.css";
 import Navbar from "../../components/Navbar";
 import ThemeSwitcher from "../../components/ThemeSwitcher";
 import AccessibilityWidget from "../../components/AccessibilityWidget";
+import { Analytics } from '@vercel/analytics/react'
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -67,6 +68,7 @@ export default async function LocaleLayout({
           <ThemeSwitcher />
           <AccessibilityWidget />
         </NextIntlClientProvider>
+         <Analytics /> 
       </body>
     </html>
   );
